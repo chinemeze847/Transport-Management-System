@@ -1,0 +1,11 @@
+1) Frontend Framework
+React js
+
+2) Backend Framework
+Node js
+Express js
+
+3) Frontend Tools
+visual studio  code - for developement
+npm - To manage javascript modules/library
+create-react-app - for bootstrapping the project
